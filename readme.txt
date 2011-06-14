@@ -14,7 +14,7 @@ The focus is on simple usage (all settings are optional), attractive looks and i
 The plugin works with Internet Explorer 6+, Firefox 2.x+, Safari 3.0+, Opera 9.5+ and Konqueror 4.x+ with the HTML canvas tag (the excanvas Javascript emulation helper is used for IE < 9). 
 
 == Installation ==
-1. Upload `jstat/` to the `/wp-content/plugins/` directory
+1. Upload `flot/` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions == 
