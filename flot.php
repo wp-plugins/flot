@@ -10,8 +10,7 @@ License: GPL2
 */
 function rw_flot() {
 		wp_deregister_script('flot'); // deregister
-		wp_register_script('flot', plugins_url('/flot/jquery.flot.min.js', __FILE__), array("jquery", "jquery-ui-core", "excanvas" ), '0.7.0');
-		wp_enqueue_script('flot'); // load
+		wp_enqueue_script('flot', plugins_url('/flot/jquery.flot.min.js', __FILE__), array("jquery", "jquery-ui-core", "excanvas" ), '0.7.0');
 }
 add_action('init', 'rw_flot');
 ?>
