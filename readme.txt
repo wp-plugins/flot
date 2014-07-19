@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: ramoonus
 Donate link: http://www.ramoonus.nl
-Tags: jquery, statistics, flot, canvas
+Tags: jquery, statistics, flot, canvas, adopt-me
 Requires at least: 3.0.0
 Tested up to: 3.9.1
 Stable tag: 1.0.1
