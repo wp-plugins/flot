@@ -4,7 +4,7 @@ Donate link: http://www.ramoonus.nl
 Tags: jquery, statistics, flot, canvas, adopt-me
 Requires at least: 3.9
 Tested up to: 4.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 
 Flot is a pure Javascript plotting library for jQuery. It produces graphical plots of arbitrary datasets on-the-fly client-side.
 == Description ==
