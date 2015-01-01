@@ -27,6 +27,11 @@ Its recommended to flush the cache after upgrading.
 Not relevant.
 
 == Changelog ==
+= 1.0.2 =
+* Cleaned up code and directories
+* Based on Flot 0.8.3
+* Bugfix
+
 = 1.0.1 = 
 * Removed Excanvas. Excanvas is now a separate plugin.
 
